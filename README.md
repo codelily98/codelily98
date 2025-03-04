@@ -117,7 +117,13 @@
 			</td>
 		</tr>
 		<tr>
-			<td>ETC</td>
+			<td>Security</td>
+			<td>
+				<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JWT&logoColor=white" />
+			</td>
+		</tr>
+		<tr>
+			<td>Cloud</td>
 			<td>
 <!-- 				<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" /> -->
 				<img alt="NCP" src="https://img.shields.io/badge/NaverCloudPlatform-03C75A?style=flat&logo=Naver&logoColor=white" />
