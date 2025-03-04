@@ -119,7 +119,7 @@
 		<tr>
 			<td>Security</td>
 			<td>
-				<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JWT&logoColor=white" />
+				<img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" />
 			</td>
 		</tr>
 		<tr>
