@@ -113,7 +113,7 @@
 			<td>
 				<img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white" />
 				<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white" />
-<!-- 				<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" /> -->
+				<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white" />
 			</td>
 		</tr>
 		<tr>
