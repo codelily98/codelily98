@@ -91,7 +91,7 @@
 			</td>
 		</tr>
 		<tr>
-			<th rowspan="4"><font><b>ETC</b></font></th>
+			<th rowspan="5"><font><b>ETC</b></font></th>
 			<td>VCS</td>
 			<td>
 				<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
