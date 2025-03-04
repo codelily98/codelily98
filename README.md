@@ -137,6 +137,7 @@
 				<img alt="Vite" src="https://img.shields.io/badge/Vite-BB00FF?style=flat&logo=Vite&logoColor=white" />
 				<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
 				<img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
+				<img alt="Nginx" src="https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white">
 				<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 				<!-- <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> -->
 				<!-- <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" /> -->
